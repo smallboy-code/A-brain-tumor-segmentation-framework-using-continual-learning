@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # A-brain-tumor-segmentation-framework-using-continual-learning
 =======
 
